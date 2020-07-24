@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.titlepage {
+  background: url("../images/background.jpg") left top repeat;
+  color: #fff;
+}
+
+.otherpages {
+  background: url("../images/miraicon.png") right bottom no-repeat, url("../images/background.jpg") left top repeat;
+  color: #fff;
+}
+
+.video-container {
+  margin: auto;
+}
+
+section ol li {
+  list-style: none;
+}
